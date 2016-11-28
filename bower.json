@@ -1,0 +1,25 @@
+{
+  "name": "hello-gulp",
+  "description": "gulp.js playground",
+  "main": "app.js",
+  "authors": [
+    "Shimiz"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gulp"
+  ],
+  "homepage": "https://github.com/shimizacken/hello-gulp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "1.3.0"
+  }
+}
